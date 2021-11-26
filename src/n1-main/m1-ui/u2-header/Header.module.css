@@ -1,0 +1,24 @@
+.header{
+    width: 100%;
+    height: 80px;
+    padding:10px 40px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    top: 0;
+    left: 0;
+    background:#096ef3;
+}
+
+.header a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color:#fff;
+    font-size: 14px;
+    transition: .3s;
+    margin-right: 10px;
+}
+
+.header a:hover {
+    color:#ccc;
+}
