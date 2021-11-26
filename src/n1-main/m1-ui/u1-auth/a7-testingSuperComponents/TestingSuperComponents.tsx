@@ -5,7 +5,7 @@ import SuperInputText from "../../u6-common/c1-SuperInputText/SuperInputText";
 
 export const TestingSuperComponents = () => {
     return(
-        <div>
+        <div className={'container'}>
             <div>
                 <SuperButton>Default</SuperButton>
                 <SuperButton red>Red</SuperButton>

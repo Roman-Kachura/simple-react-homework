@@ -2,7 +2,7 @@ import React from "react";
 
 export const NewPasswordPage = () => {
     return (
-        <div>
+        <div className={'container'}>
             <h1>NewPasswordPage</h1>
         </div>
     )
